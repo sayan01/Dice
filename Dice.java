@@ -1,5 +1,5 @@
 //Dice Rolling Simulator
-
+//Sayan Ghosh
 class Dice{
 	public static void main(String[] args) {
 
@@ -30,6 +30,6 @@ class Dice{
 			}
 			System.out.println();
 		}
-		System.out.print("\n"+num);
+		System.out.println("\n"+num);
 	}
 }
